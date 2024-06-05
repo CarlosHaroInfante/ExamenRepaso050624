@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\bin\Debug\net7.0\RepasoExamenMarzo.exe
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\bin\Debug\net7.0\RepasoExamenMarzo.deps.json
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\bin\Debug\net7.0\RepasoExamenMarzo.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\bin\Debug\net7.0\RepasoExamenMarzo.dll
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\bin\Debug\net7.0\RepasoExamenMarzo.pdb
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\RepasoExamenMarzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\RepasoExamenMarzo.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\RepasoExamenMarzo.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\RepasoExamenMarzo.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\RepasoExamenMarzo.dll
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\refint\RepasoExamenMarzo.dll
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\RepasoExamenMarzo.pdb
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\RepasoExamenMarzo.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\RepasoExamenMarzo\obj\Debug\net7.0\ref\RepasoExamenMarzo.dll

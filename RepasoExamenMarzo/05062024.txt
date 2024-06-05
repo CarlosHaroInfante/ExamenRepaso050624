@@ -1,0 +1,10 @@
+........... 
+Venta número 1
+Euros: 20
+Instante compra: 05/06/2024 10:12:09
+
+........... 
+Venta número 2
+Euros: 13
+Instante compra: 05/06/2024 10:12:20
+
